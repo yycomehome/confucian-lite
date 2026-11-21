@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ren",
+    "cn": "中式园林",
+    "en": "Classical Chinese garden",
+    "file": "ren-landmark.jpg",
+    "source": "./credits.html",
+    "author": "User-provided local image / 用户提供的本地图片",
+    "license": "LOCAL COLLECTION",
+    "licenseUrl": "./credits.html",
+    "note": "Local user-supplied image; displayed with a crop and layered visual treatment."
+  },
+  {
+    "id": "yi",
+    "cn": "布达拉宫",
+    "en": "Potala Palace",
+    "file": "yi-landmark.jpg",
+    "source": "./credits.html",
+    "author": "User-provided local image / 用户提供的本地图片",
+    "license": "LOCAL COLLECTION",
+    "licenseUrl": "./credits.html",
+    "note": "Local user-supplied image; displayed with a crop and layered visual treatment."
+  },
+  {
+    "id": "li",
+    "cn": "古建庭院",
+    "en": "Ceremonial courtyard",
+    "file": "li-landmark.jpg",
+    "source": "./credits.html",
+    "author": "User-provided local image / 用户提供的本地图片",
+    "license": "LOCAL COLLECTION",
+    "licenseUrl": "./credits.html",
+    "note": "Local user-supplied image; displayed with a crop and layered visual treatment."
+  },
+  {
+    "id": "zhi",
+    "cn": "传统牌坊",
+    "en": "Ornate traditional gateway",
+    "file": "zhi-landmark.jpg",
+    "source": "./credits.html",
+    "author": "User-provided local image / 用户提供的本地图片",
+    "license": "LOCAL COLLECTION",
+    "licenseUrl": "./credits.html",
+    "note": "Local user-supplied image; displayed with a crop and layered visual treatment."
+  },
+  {
+    "id": "xin",
+    "cn": "暮色石桥",
+    "en": "Stone bridge at dusk",
+    "file": "xin-landmark.jpg",
+    "source": "./credits.html",
+    "author": "User-provided local image / 用户提供的本地图片",
+    "license": "LOCAL COLLECTION",
+    "licenseUrl": "./credits.html",
+    "note": "Local user-supplied image; displayed with a crop and layered visual treatment."
+  }
+]

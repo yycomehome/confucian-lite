@@ -1,2 +1,24 @@
-# confucian-lite
-儒风出海 · Confucian Lite | Bilingual interactive cultural experience
+# 儒风出海 · Confucian Lite
+
+独立英文站 `index.html`、独立中文站 `zh.html`。原生 HTML / CSS / JavaScript，静态部署，无后端。
+
+## 功能
+
+- 天坛摄影分层景深：鼠标、键盘和触屏拖动，含暂停与减少动态适配。
+- 三幕情景游戏，解释弹窗，PNG 徽章下载与系统分享。
+- 故事发布、匿名、筛选、点赞、评论，在当前浏览器保存。
+- 13 个动态概念节点、连线同步浮动、分层阅读、三阶段学习路径。
+- 仁义礼智信联动地标照片与滑入切换，真实延伸阅读二维码。
+- 响应式移动导航、弹窗焦点管理、键盘操作。
+
+## 本地运行
+
+`npm install` 后运行 `npm start`，打开 http://127.0.0.1:4173。
+
+`npm run build` 生成 `dist/`，可部署至 GitHub Pages、Netlify、Vercel 等静态托管。
+
+## 演示说明
+
+故事墙初始内容为示例。用户数据仅保存在当前浏览器，不向服务器同步。
+所有地标图片均包含来源与许可信息，见 `credits.html` 和 `assets/photo-sources.json`。
+五常为仁、义、礼、智、信；和作为延伸概念展示。照片为跨文化视觉联想，不代表美德起源。
